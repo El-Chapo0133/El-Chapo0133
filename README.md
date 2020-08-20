@@ -1,16 +1,14 @@
-### Hi there 👋
+### Saluuuut ! 👋
 
-<!--
-**El-Chapo0133/El-Chapo0133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Loris, 19ans, résident en Suisse
 
-Here are some ideas to get you started:
+Le code m'amusant beaucoup, j'en fait beaucoup
+J'aime Rust/Golang/Typescript, j'en connais d'autre, mais c'est eux avec lequels je m'amuse le plus
+Je fais de tout, tout ce qui est un challenge peut être fait, je m'amuse ^^
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis actuellement en stage Romande Energie dans le cadre de mon apprentissage à l'ETML
+
+Sinon je lis des mangas et regarde des animés, ou joue aux jeux-viédos (PC ou console)
+J'aime le sport, manger bien (même si un tacos de temps en temps je dis pas non c: ) et rire
+
+Et mon super pouvoir : je peux mettre les clés UBS dans le bon sens du premier coup c:
