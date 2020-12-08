@@ -9,6 +9,8 @@ Je fais de tout, tout ce qui est un challenge peut être fait, je m'amuse ^^
 {{ LANGUAGE_TEMPLATE_START:max=5 }}
 This text will be printed at most 5 times
 {{ LANGUAGE_PERCENT }}
+{{ LANGUAGE_NAME }}
+{{ LANGUAGE_COLOR:uri }}
 {{ LANGUAGE_TEMPLATE_END }}
 
 Je suis actuellement en stage Romande Energie dans le cadre de mon apprentissage à l'ETML
