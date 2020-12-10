@@ -6,7 +6,6 @@ Le code m'amusant beaucoup, j'en fait beaucoup
 J'aime Rust/Golang/Typescript, j'en connais d'autre, mais c'est eux avec lequels je m'amuse le plus
 Je fais de tout, tout ce qui est un challenge peut être fait, je m'amuse ^^
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=El-Chapo0133)](https://github.com/El-Chapo0133/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Chapo0133&layout=compact)](https://github.com/El-Chapo0133/github-readme-stats)
 
 Je suis actuellement en stage Romande Energie dans le cadre de mon apprentissage à l'ETML
