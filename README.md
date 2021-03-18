@@ -8,7 +8,7 @@ Je fais de tout, tout ce qui est un challenge peut être fait, je m'amuse ^^
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Chapo0133&layout=compact)](https://github.com/El-Chapo0133/github-readme-stats)
 
-Je suis actuellement en stage Romande Energie dans le cadre de mon apprentissage à l'ETML
+Je suis actuellement en fin d'apprentissage à l'ETML
 
 Sinon je lis des mangas et regarde des animés, ou joue aux jeux-viédos (PC ou console)
 J'aime le sport, manger bien (même si un tacos de temps en temps je dis pas non c: ) et rire
