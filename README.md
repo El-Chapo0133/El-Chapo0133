@@ -1,6 +1,6 @@
 ### Saluuuut ! 👋
 
-Je m'appelle Loris, 20ans, résident en Suisse
+Je m'appelle Loris, 23ans, résident en Suisse
 
 Le code m'amusant beaucoup, c'est ma passion<br>
 J'aime le C#/Rust/Golang, j'en connais d'autre, mais c'est eux avec lequels je m'amuse le plus<br>
@@ -10,7 +10,8 @@ Je fais de tout, tout ce qui est un challenge peut être fait, je m'amuse ^^
 
 
 J'ai fini mon CFC d'informatique à l'ETML<br>
-Maintenant je suis développeur à la PL-MTI à l'EPFL
+J'ai fait développeur à la PL-MTI à l'EPFL durant presque 2ans<br>
+Maintenant je suis dans une école de dev à Thonon-les-bains : Holberton !<br>
 
 Vous pouvez me contacter par mail au loris@leveque.website<br>
 Sinon y-a mon site web qui avance un peu tout le temps : http://loris.leveque.website
