@@ -1,22 +1,23 @@
-### Saluuuut ! 👋
+### Hello ! 👋
 
-Je m'appelle Loris, 23ans, résident en Suisse
+My name is Loris, i am 23 years old and i live in Switzerland<br>
 
-Le code m'amusant beaucoup, c'est ma passion<br>
-J'aime le C#/Rust/Golang, j'en connais d'autre, mais c'est eux avec lequels je m'amuse le plus<br>
-Je fais de tout, tout ce qui est un challenge peut être fait, je m'amuse ^^
+I've been coding for years and still enjoy it a lot<br>
+I particularly like <b>C</b>, <b>Rust</b> and <b>C#</b><br>
+I'll code pretty much anything, as long as it's a challenge or seems fun :D<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Chapo0133&layout=compact)](https://github.com/El-Chapo0133/github-readme-stats)
 
 
-J'ai fini mon CFC d'informatique à l'ETML<br>
-J'ai fait développeur à la PL-MTI à l'EPFL durant presque 2ans<br>
-Maintenant je suis dans une école de dev à Thonon-les-bains : Holberton !<br>
+I studied IT for 4 years at <b>ETML</b><br>
+After that, I worked for nearly 2 years at a startup within <b>PL-MTI</b> at <b>EPFL</b><<br>
+Now im doing an extra 9-months specialization at <b>Holberton</b>, focusing into low-level<br>
 
-Vous pouvez me contacter par mail au loris@leveque.website<br>
-Sinon y-a mon site web qui avance un peu tout le temps : http://loris.leveque.website
+If you want to contect me, you can do it with those emails :
+- loris@leveque.website
+- lorisleveque66@gmail.com
 
-Sinon je lis des mangas et regarde des animés, ou joue aux jeux-viédos (PC ou console)<br>
-J'aime le sport, manger bien (même si un tacos de temps en temps je dis pas non), lire de bons livres et rire
+Outside of coding, I enjoy reading (both novels and manga), cooking, watching anime, and gaming.<br>
+I’m also into sports, good food (a taco here and there is always welcome!), and laughing—classic stuff.<br>
 
-Et mon super pouvoir : je peux mettre les clés UBS dans le bon sens du premier coup c:
+Oh, and I have a superpower: I can plug in a USB key the right way on the first try. c:
