@@ -10,14 +10,14 @@ I'll code pretty much anything, as long as it's a challenge or seems fun :D<br>
 
 
 I studied IT for 4 years at <b>ETML</b><br>
-After that, I worked for nearly 2 years at a startup within <b>PL-MTI</b> at <b>EPFL</b><<br>
-Now im doing an extra 9-months specialization at <b>Holberton</b>, focusing into low-level<br>
+After that, I worked for nearly 2 years at a startup within <b>PL-MTI</b> at <b>EPFL</b><br>
+Then i did an extra 9-months specialization at <b>Holberton</b>, focusing into low-level<br>
+And im currently looking for a job :D
 
-If you want to contect me, you can do it with those emails :
-- loris@leveque.website
+If you want to contect me, you can do it with this email :
 - lorisleveque66@gmail.com
 
 Outside of coding, I enjoy reading (both novels and manga), cooking, watching anime, and gaming.<br>
-I’m also into sports, good food (a taco here and there is always welcome!), and laughing—classic stuff.<br>
+I’m also into sports, good food (a taco here and there is always welcome!), and laughing — classic stuff.<br>
 
 Oh, and I have a superpower: I can plug in a USB key the right way on the first try. c:
